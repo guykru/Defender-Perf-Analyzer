@@ -1,0 +1,4 @@
+# Windows-Zeilenenden fuer PowerShell- und Batch-Dateien beibehalten
+*.ps1 -text
+*.cmd -text
+*.bat -text
